@@ -1,1 +1,3 @@
 # litedev
+
+Git is awesome
