@@ -1,3 +1,3 @@
 # litedev
 
-Git is awesome
+Git is awesome, and you know it!
